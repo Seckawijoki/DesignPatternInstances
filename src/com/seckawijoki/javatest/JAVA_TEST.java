@@ -54,7 +54,10 @@ public class JAVA_TEST {
     }
   }
   public static void main(String[] args) {
-    new  JAVA_TEST();
+
+//    new  JAVA_TEST();
+
   }
+
 
 }
